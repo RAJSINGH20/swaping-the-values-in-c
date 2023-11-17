@@ -1,8 +1,5 @@
-# swaping-the-values-in-c
-
 
 #include <stdio.h>
-
 int main() {
     FILE *file1, *file2;
     char temp[1000]; // Adjust the buffer size as needed
